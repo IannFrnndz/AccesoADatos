@@ -17,7 +17,7 @@ public class AccesoAleatorioEjercicio {
             System.out.println("Posición después de leer 1: " +
                     raf.getFilePointer());
 // Leer segundo registro
-            System.out.println("Posición antes de leer 2: " +
+            System.out.println("Posición antes de leer 2:a  " +
                     raf.getFilePointer());
             String r2 = raf.readUTF();
 
